@@ -3,3 +3,4 @@
 1.2 Housing price prediction using a simple formula. <br/>
 1.3 Standard Neural Network on MNIST data. <br/>
 1.4 CNN for fashion MNIST. <br/>
+1.5 Filters, convolutions,and Pooling <br/>
