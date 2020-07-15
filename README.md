@@ -4,3 +4,4 @@
 1.3 Standard Neural Network on MNIST data. <br/>
 1.4 CNN for fashion MNIST. <br/>
 1.5 Filters, convolutions,and Pooling <br/>
+1.6 Human vs Horse CNN <br/>
